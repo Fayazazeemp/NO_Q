@@ -7,6 +7,10 @@ cd client
 
 npm install
 
+cd admin
+
+npm start
+
 cd ..
 
 npm run dev
